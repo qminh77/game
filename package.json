@@ -1,7 +1,7 @@
 {
   "name": "minigames",
   "version": "1.0.0",
-  "description": "A Discord MiniGames Bot",
+  "description": "Game",
   "main": "index.js",
   "dependencies": {
     "abort-controller": "^3.0.0",
@@ -29,14 +29,14 @@
     "discordbot",
     "ytt"
   ],
-  "author": "KabirSingh8148",
+  "author": "qminh77",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker.git"
+    "url": "git+https://github.com/qminh77/game.git"
   },
   "bugs": {
-    "url": "https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker/issues"
+    "url": "https://github.com/qminh77/game"
   },
-  "homepage": "https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker#readme"
+  "homepage": "https://github.com/qminh77/game"
 }
